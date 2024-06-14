@@ -1,0 +1,6 @@
+<aura:component >
+    <c:kareeshma_lighetning_component/>
+    <hr/>
+	<h1> welcome to my application </h1>
+    <p> Hi everyone! </p>
+</aura:component>
