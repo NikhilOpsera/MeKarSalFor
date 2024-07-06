@@ -4,7 +4,6 @@
     <label>Karishma_salesforce01</label>
     <oauthConfig>
         <callbackUrl>https://opsera2--opsdemo1.my.salesforce.com</callbackUrl>
-        <consumerKey>3MVG9CecKwYCDceQ56Y.pDNobbDKbmJ.lzEmtNjWLMpBYDnSLEvmDoLddlQRQeQFkQZ4lfNu4Wd3yGlNlBm99</consumerKey>
         <isAdminApproved>false</isAdminApproved>
         <isClientCredentialEnabled>false</isClientCredentialEnabled>
         <isCodeCredentialEnabled>false</isCodeCredentialEnabled>
