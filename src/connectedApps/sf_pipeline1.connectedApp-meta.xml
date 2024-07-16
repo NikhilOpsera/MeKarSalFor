@@ -5,7 +5,6 @@
     <label>sf_pipeline1</label>
     <oauthConfig>
         <callbackUrl>https://opsera2--opsdemo1.my.salesforce.com</callbackUrl>
-        <consumerKey>3MVG9CecKwYCDceQ56Y.pDNobbMeDzO8Qe7ZsjMIVkrSXkkPZ1CuW.KWwR4YhoL_lJQQxHkTDv6y0JR7FHQw4</consumerKey>
         <isAdminApproved>false</isAdminApproved>
         <isClientCredentialEnabled>false</isClientCredentialEnabled>
         <isCodeCredentialEnabled>false</isCodeCredentialEnabled>
